@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @landersoft
-- 👀 I’m interested in Backend, DataScience y MachineLearning 
+- 👀 I’m interested in Backend, DataScience and MachineLearning 
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on do a better world
 - 📫 How to reach me landersoft at gmail
